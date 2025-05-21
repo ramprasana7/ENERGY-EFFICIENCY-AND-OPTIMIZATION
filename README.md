@@ -52,6 +52,7 @@ PHASE 3 IMPORTANT POINTS
 5. Feedback Mechanism: System improvements based on user feedback are initiated.
 
    PHASE 4 IMPORTANT POINTS
+   
 1. Optimized Energy Consumption: Enhanced algorithms will deliver noticeable reductions in energy waste.
 2. Responsive Real-Time Monitoring: Users will gain deeper control and visibility over energy usage.
 3. Broad Smart Device Compatibility: The system will seamlessly integrate a variety of IoT devices.
